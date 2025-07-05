@@ -15,7 +15,7 @@ Research current architectural patterns, system design best practices, and scali
 
 ```
 "Research microservices vs modular monolith for SaaS"
-"Best practices for event-driven architecture 2024"
+"Best practices for event-driven architecture 2025"
 "How to scale WebSocket connections to 100k users"
 "Database sharding strategies for multi-tenant apps"
 "Research CQRS and Event Sourcing patterns"
