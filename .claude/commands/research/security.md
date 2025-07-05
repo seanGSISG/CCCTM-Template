@@ -15,7 +15,7 @@ Research security best practices, vulnerabilities, and compliance requirements.
 
 ```
 "Latest OWASP top 10 for web apps"
-"JWT security best practices 2024"
+"MSAL security best practices 2025"
 "How to implement secure file uploads"
 "PCI compliance for SaaS applications"
 "Research CSP headers configuration"
