@@ -14,11 +14,11 @@ Research technologies, frameworks, libraries, and tools to make informed decisio
 ## What You Can Say
 
 ```
-"Compare Next.js vs Remix for our project"
-"Research state management solutions for React 2024"
-"Best Node.js ORMs for PostgreSQL"
-"Evaluate Bun vs Node.js performance"
-"Research authentication libraries for Next.js"
+"Compare Flask vs DJango vs FastAPI for our project"
+"Microsoft Graph API documentation 2025"
+"Best Database ORMs for FastAPI"
+"PowerShell SDK vs Python Graph API"
+"Research authentication libraries for MSAL"
 ```
 
 ## How It Works
