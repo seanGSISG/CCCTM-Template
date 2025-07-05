@@ -14,10 +14,10 @@ Research current best practices, or solutions to help with task implementation.
 ## What You Can Say
 
 ```
-"Research JWT security best practices for task 5"
-"What's the best way to handle file uploads in Next.js?"
-"Research MongoDB vs PostgreSQL for our use case"
-"Find React Query v5 migration guide"
+"Research MSAL security best practices for task 5"
+"How to use MSAL to acquire security tokens (e.g., access tokens, refresh tokens) using various authentication flows?"
+"Research Flask vs FastAPI"
+"Find the latest Microsoft Graph REST APIs and SDKs documentation 2025"
 ```
 
 ## How It Works
