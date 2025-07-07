@@ -5,6 +5,16 @@
       "command": "npx",
       "args": ["-y", "--package=task-master-ai", "task-master-ai"],
       "env": {}
+    },
+    "azure-mcp": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@azure/mcp-servers", "azure"],
+      "env": {}
+    },
+    "microsoftdocs": {
+      "type": "http",
+      "url": "https://learn.microsoft.com/api/mcp"
     }
   }
 }
